@@ -36,5 +36,4 @@ npm start
 | Frontend |
 |:-:|
 ![ข้อความแสดงแทนรูป](https://media.discordapp.net/attachments/1338111493522063410/1365722722180530177/image.png?ex=680e57e6&is=680d0666&hm=836bd7b8ae3284a4f2bd65573ff5fe53e7e20445de755f19a7560f8d3f4b7b59&=&format=webp&quality=lossless&width=1716&height=856)
-|:-:|
 ![ข้อความแสดงแทนรูป](https://media.discordapp.net/attachments/1338111493522063410/1365728232149745805/image.png?ex=680e5d08&is=680d0b88&hm=092678956b37774e3398ba0abb2a8782cfa0d7749fd47e68b74d9bb9015383fd&=&format=webp&quality=lossless&width=1744&height=856)
