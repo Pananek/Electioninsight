@@ -26,19 +26,19 @@ Owner สามารถเริ่มต้นและสิ้นสุด�
  ├── Contract/
  │    └── Contract.js
 # ⚙️ วิธีติดตั้งและรันโปรเจกต์
-### git clone [YOUR_REPO_LINK]
-### -cd votinggg
-### -npm install
-### -npm start
+### git clone [(https://github.com/your-username/ElectionInsight.git)]
+### - cd votinggg
+### - npm install
+### - npm start
 
-🛠️ Tech Stack
-React (Frontend Framework)
-Ethers.js (เชื่อมต่อ Blockchain)
-React Router DOM (จัดการ Routing)
-React Toastify (แจ้งเตือน)
-Solidity (Smart Contract)
-Tailwind CSS (Optional ถ้าใช้ตกแต่งเพิ่มเติม)
-Metamask (กระเป๋าเงินเชื่อม Blockchain)
+# 🛠️ Tech Stack
+### React (Frontend Framework)
+### Ethers.js (เชื่อมต่อ Blockchain)
+### React Router DOM (จัดการ Routing)
+### React Toastify (แจ้งเตือน)
+### Solidity (Smart Contract)
+### Tailwind CSS (Optional ถ้าใช้ตกแต่งเพิ่มเติม)
+###Metamask (กระเป๋าเงินเชื่อม Blockchain)
 
 🖥️ การใช้งานเบื้องต้น
 เชื่อมต่อกระเป๋า Metamask
