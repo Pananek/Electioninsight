@@ -11,9 +11,9 @@ Owner สามารถเริ่มต้นและสิ้นสุด�
 มีหน้า Developer Info
 
 # 🛠 เทคโนโลยีที่ใช้
-Frontend: React.js, ethers.js, react-router-dom, react-toastify
-Smart Contract: Solidity
-Blockchain: รองรับ Ethereum (ผ่าน MetaMask)
+### Frontend: React.js, ethers.js, react-router-dom, react-toastify
+### Smart Contract: Solidity
+### Blockchain: รองรับ Ethereum (ผ่าน MetaMask)
 📂 โครงสร้างโปรเจกต์
 /src
  ├── App.js
