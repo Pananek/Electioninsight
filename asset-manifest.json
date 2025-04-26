@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Electioninsight/static/css/main.d4414e2c.css",
+    "main.js": "/Electioninsight/static/js/main.a003fe09.js",
+    "static/js/453.e7f53b93.chunk.js": "/Electioninsight/static/js/453.e7f53b93.chunk.js",
+    "index.html": "/Electioninsight/index.html",
+    "main.d4414e2c.css.map": "/Electioninsight/static/css/main.d4414e2c.css.map",
+    "main.a003fe09.js.map": "/Electioninsight/static/js/main.a003fe09.js.map",
+    "453.e7f53b93.chunk.js.map": "/Electioninsight/static/js/453.e7f53b93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4414e2c.css",
+    "static/js/main.a003fe09.js"
+  ]
+}
