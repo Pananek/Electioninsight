@@ -35,4 +35,4 @@ npm start
 🖥️ ตัวอย่างหน้าเว็บ
 | หน้าโหวต | หน้าผู้พัฒนา |
 |:-:|:-:|
-![ข้อความแสดงแทนรูป]([https://studentscms.spu.ac.th/stdempimg.cfm?empstdtype=STD&vdata=0FDFC9ECD781FDA5052BCED5DA0ECBDC82E7160ED6F8DCDE](https://media.discordapp.net/attachments/1338111493522063410/1365722722180530177/image.png?ex=680e57e6&is=680d0666&hm=836bd7b8ae3284a4f2bd65573ff5fe53e7e20445de755f19a7560f8d3f4b7b59&=&format=webp&quality=lossless&width=1716&height=856))
+![ข้อความแสดงแทนรูป](https://media.discordapp.net/attachments/1338111493522063410/1365722722180530177/image.png?ex=680e57e6&is=680d0666&hm=836bd7b8ae3284a4f2bd65573ff5fe53e7e20445de755f19a7560f8d3f4b7b59&=&format=webp&quality=lossless&width=1716&height=856)
