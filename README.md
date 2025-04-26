@@ -35,4 +35,4 @@ npm start
 🖥️ ตัวอย่างหน้าเว็บ
 | หน้าโหวต | หน้าผู้พัฒนา |
 |:-:|:-:|
-![ข้อความแสดงแทนรูป]([https://example.com/path/to/your-image.png](https://studentscms.spu.ac.th/stdempimg.cfm?empstdtype=STD&vdata=0FDFC9ECD781FDA5052BCED5DA0ECBDC82E7160ED6F8DCDE))
+![ข้อความแสดงแทนรูป](https://studentscms.spu.ac.th/stdempimg.cfm?empstdtype=STD&vdata=0FDFC9ECD781FDA5052BCED5DA0ECBDC82E7160ED6F8DCDE)
