@@ -1,0 +1,291 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Prompt', sans-serif;
+  background: linear-gradient(135deg, #e0eafc, #cfdef3);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  width: 100%;
+  max-width: 900px;
+  margin: 2rem;
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Login */
+.Login-container {
+  text-align: center;
+}
+
+.connected-message {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  color: #333;
+}
+
+.connect {
+  background: #4f46e5;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.connect:hover {
+  background: #4338ca;
+}
+
+/* Connected */
+.connected-container {
+  text-align: center;
+}
+
+.connected-container h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  color: #222;
+}
+
+.connected-container p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.connected-container input[type="number"] {
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+  width: 150px;
+}
+
+.connected-container button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  font-size: 1rem;
+  background: #10b981;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.connected-container button:hover {
+  background: #059669;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 2rem;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #4f46e5;
+  color: white;
+}
+
+td {
+  background-color: #f9fafb;
+}
+
+/* Admin Panel */
+.admin-panel {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 8px 16px;
+  margin-bottom: 1rem;
+  border-radius: 9999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.status-active {
+  background: #34d399;
+  color: #065f46;
+}
+
+.status-inactive {
+  background: #f87171;
+  color: #7f1d1d;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.buttons button, .add-candidate-button {
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.add-candidate-button {
+  background: #3b82f6;
+  color: white;
+}
+
+.add-candidate-button:hover {
+  background: #2563eb;
+}
+
+.destructive {
+  background: #ef4444;
+  color: white;
+}
+
+.destructive:hover {
+  background: #dc2626;
+}
+
+/* Add Candidate */
+.add-candidate-container {
+  text-align: center;
+}
+
+.input-candidate {
+  padding: 10px;
+  width: 70%;
+  max-width: 300px;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+}
+
+.submit-button {
+  display: block;
+  width: 70%;
+  max-width: 300px;
+  margin: 1rem auto;
+  padding: 10px;
+  background: #10b981;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.submit-button:hover {
+  background: #059669;
+}
+
+.back-button {
+  background: #6b7280;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.back-button:hover {
+  background: #4b5563;
+}
+.developer-container {
+  padding: 30px;
+  text-align: center;
+  background: #f8f9fa;
+  min-height: 100vh;
+}
+
+.developer-cards {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
+.developer-card {
+  background: white;
+  border-radius: 15px;
+  padding: 20px;
+  width: 250px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.developer-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.developer-card img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.developer-card h2 {
+  margin: 10px 0 5px;
+  font-size: 20px;
+  color: #333;
+}
+
+.developer-card p {
+  color: #777;
+  margin-bottom: 15px;
+}
+
+.developer-card a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.developer-card a:hover {
+  text-decoration: underline;
+}
+
+.back-button {
+  margin-top: 40px;
+  padding: 10px 20px;
+  background: #007bff;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.back-button:hover {
+  background: #0056b3;
+}
