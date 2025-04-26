@@ -25,13 +25,11 @@ Owner สามารถเริ่มต้นและสิ้นสุด�
  │    └── Developer.js
  ├── Contract/
  │    └── Contract.js
-⚙️ วิธีติดตั้งและรันโปรเจกต์
-git clone [YOUR_REPO_LINK]
-cd votinggg
-
-npm install
-
-npm start
+# ⚙️ วิธีติดตั้งและรันโปรเจกต์
+### git clone [YOUR_REPO_LINK]
+### -cd votinggg
+### -npm install
+### -npm start
 
 🛠️ Tech Stack
 React (Frontend Framework)
